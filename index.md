@@ -134,12 +134,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance. If we can help making learning easier for
-  you please
+  accessible to everybody. If we can help making learning easier for
+  you, please
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
